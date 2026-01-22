@@ -1,0 +1,11 @@
+[project]
+name = "school-telegram-bot"
+version = "1.0.0"
+requires-python = ">=3.11"
+dependencies = [
+  "python-telegram-bot==20.8",
+  "Flask==3.0.3",
+]
+
+[tool.setuptools]
+py-modules = []
